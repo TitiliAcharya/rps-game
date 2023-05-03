@@ -6,6 +6,7 @@ public class Testgame {
 		// TODO Auto-generated method stub
 		System.out.println("Thank you");
 		System.out.println(20+30);
+		System.out.println("Added pollSCM trigger")
 	}
 
 }
